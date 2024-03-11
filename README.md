@@ -2,7 +2,7 @@
 ---
 
 ## NLP dataset
-1. Bangla Newspaper Dataset
+1. Bangla Newspaper Dataset <br>
    400k+ bangla news samples, 25+ categories
    Link: https://www.kaggle.com/datasets/furcifer/bangla-newspaper-dataset
 2. 
